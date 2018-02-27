@@ -1,0 +1,32 @@
+<html>
+  <head>
+    <title>Médecine traditionnelle Chinoise</title>
+    <meta content="">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  </head>
+  <body>
+  <div id="preamble">
+   
+  </div>
+ 
+ <h1> Qu'est ce que la médecine traditionelle?</h1>
+ <div id="corps">
+	<td><a href="https://fr.wikipedia.org/wiki/M%C3%A9decine_traditionnelle_chinoise">Acuponcture</a></td>
+ </div>
+
+ <form action = "login.php">
+	<div class = "container">
+		<label for="utilisateur"><b>Utilisateur</b><label>
+		<input type="text" placeholder="Entrez votre identifiant" name="utilisateur" required >
+		<label for="mot de passe"><b>Mot de passe</b><label>
+		<input type="text" placeholder="Entrez votre mot de passe" psw="mot de passe" required >
+		<button type="connexion" >Connexion </button>
+		
+		<label>
+			<input type="checkbox" checked="checked" name="se souvenir"> Se souvenir de moi
+		</label>
+	</div>
+ </form>	
+
+</body>
+</html>
